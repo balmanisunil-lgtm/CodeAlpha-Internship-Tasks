@@ -1,41 +1,67 @@
-# CodeAlpha-Internship-Tasks
-Python programming internship projects and task submissions completed during my CodeAlpha Internship.
-# CodeAlpha Python Programming Internship
+# 🚀 CodeAlpha Python Programming Internship
 
-Welcome to my CodeAlpha Python Programming Internship repository!
+Welcome to my **CodeAlpha Python Programming Internship** repository!
 
-This repository contains my completed Python programming tasks and projects as part of my internship at CodeAlpha.
+This repository showcases my Python programming projects completed as part of my internship at **CodeAlpha**.
 
-## Intern Information
+## 👨‍💻 Intern Information
+
 - **Name:** Sunil Balmani
 - **Role:** Python Programming Intern
 - **Organization:** CodeAlpha
-- **Programming Language:** Python
+- **Language:** Python
+- **GitHub:** [balmanisunil-lgtm](https://github.com/balmanisunil-lgtm)
 
-## Internship Tasks
+## 📂 Completed Internship Tasks
+
+### ✅ Task 1: Hangman Game
+A Python-based word guessing game where players try to guess a hidden word by suggesting letters before running out of attempts.
+
+**Skills Practiced:**
+- Python fundamentals
+- Loops and conditional statements
+- Strings and lists
+- Random module
+- User input handling
+
+### ✅ Task 4: Basic Chatbot
+A basic chatbot developed using Python that interacts with users through text-based conversations.
+
+**Skills Practiced:**
+- Python fundamentals
+- Conditional statements
+- User input and output
+- String handling
+- Basic chatbot logic
+
+## 🛠️ Technologies Used
+
+- Python
+- Visual Studio Code
+- Git
+- GitHub
+
+## 🎯 Internship Learning Goals
+
+- Improve Python programming skills.
+- Build practical programming projects.
+- Develop problem-solving abilities.
+- Gain hands-on coding experience.
+
+## 📊 Internship Progress
 
 | Task | Project | Status |
 |---|---|---|
-| Task 1 | Hangman Game | Completed |
-| Task 2 | Not Started | Pending |
-| Task 3 | Not Started | Pending |
-| Task 4 | Completed Project | Completed |
+| Task 1 | Hangman Game | ✅ Completed |
+| Task 2 | Upcoming Project | ⏳ Pending |
+| Task 3 | Upcoming Project | ⏳ Pending |
+| Task 4 | Basic Chatbot | ✅ Completed |
 
-## Technologies Used
-- Python
-- VS Code
-- Git & GitHub
-
-## Learning Goals
-- Improve Python programming skills.
-- Develop practical projects.
-- Strengthen problem-solving abilities.
-- Gain real-world programming experience.
-
-## GitHub Profile
-https://github.com/balmanisunil-lgtm
+**Progress: 2 out of 4 tasks completed (50%).**
 
 ---
 
+⭐ Thank you for visiting my repository!
+
 **Developed by Sunil Balmani**  
-Python Programming Intern at CodeAlpha
+*Python Programming Intern at CodeAlpha*
